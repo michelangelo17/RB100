@@ -1,4 +1,4 @@
-def calculate_factorial(number)
+def calculate_factorial number
   total = number
   while number - 1 > 0
     total *= number - 1
@@ -7,7 +7,7 @@ def calculate_factorial(number)
   total
 end
 
-puts calculate_factorial(5)
-puts calculate_factorial(6)
-puts calculate_factorial(7)
-puts calculate_factorial(8)
+puts calculate_factorial 5
+puts calculate_factorial 6
+puts calculate_factorial 7
+puts calculate_factorial 8
