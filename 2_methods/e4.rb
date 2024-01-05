@@ -1,9 +1,9 @@
-def scream(words)
-  words += "!!!!"
-  return
-  puts words
-end
+# def scream(words)
+#   words += "!!!!"
+#   return
+#   puts words
+# end
 
-scream("Yippeee")
+# scream("Yippeee")
 
 # nothing
