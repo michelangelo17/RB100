@@ -1,0 +1,3 @@
+Official: https://ruby-doc.org
+
+OR: https://devdocs.io/ruby~3.2/

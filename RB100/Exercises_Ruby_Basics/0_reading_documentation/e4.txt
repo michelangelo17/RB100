@@ -1,0 +1,1 @@
+Break accepts a value that supplies the result of the expression it is “breaking” out of. You can also directly supply a value, "break 5", will return 5. 
